@@ -3,10 +3,10 @@
 
 ****This is for Retail Analysis Optimization****
 
-In the Retail Price Optimization Model with Machine Learning project, I wanted to get better at setting the right prices for our products. 
-This project was super important because it helped me understand what prices make our customers happy and also help our business grow. 
-By using cool computer tricks, I figured out the best prices that make everyone happy – our customers and our company. 
-This project made me better at making money and keeping our customers happy when selling stuff in stores.
+In the Retail Price Optimization Model with Machine Learning project, I wanted to get better at setting the right prices for retail  products. 
+This project was super important because it helped me understand what prices make customers happy and also help  business grow. 
+Figuring out the best prices that make everyone happy – both the customers and company. So i thought that, it is a sensible thing to consider and do in retail business.
+This project made me better benchamrking retail price while keeping customers happy.
 
 ****Distribution of Total Price****
 ![image](https://github.com/Lawrencium-103/RetailAnalysis/assets/51963311/07d41a0c-3dd4-47d6-8b23-a59cc0764b16)
