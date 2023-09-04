@@ -1,5 +1,7 @@
 ****RetailAnalysis****
-*This is for Retail Analysis Optimization
+
+
+****This is for Retail Analysis Optimization****
 
 ****In the "Retail Price Optimization Model with Machine Learning" project, I wanted to get better at setting the right prices for our products. 
 This project was super important because it helped me understand what prices make our customers happy and also help our business grow. 
